@@ -6,7 +6,6 @@ on:
     paths:
       - 'abobaker_offline_project.zip'
       - '.github/workflows/android.yml'
-
 jobs:
   build:
     runs-on: ubuntu-latest
